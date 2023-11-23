@@ -8,3 +8,4 @@ echo "# intro" >> README.md
   git remote add origin https://github.com/kcycka/intro.git
   git branch -M main
   git push -u origin main
+k
